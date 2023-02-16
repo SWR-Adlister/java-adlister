@@ -85,4 +85,14 @@ body {
     color: deeppink;
 }
 
+.nav-toggle{
+    background-color: lime;
+    border: 1px solid #454545;
+    border-radius: .25rem;
+    font-size: 1.25rem;
+    padding: 0.25rem 0.75rem;
+    line-height: 1;
+    transition: box-shadow .15s ease-in-out;
+}
+
 
