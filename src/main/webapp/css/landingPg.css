@@ -1,5 +1,4 @@
 body {
-    /*background: url("../imgs/Wave.jpeg");*/
     background: url("https://iili.io/HG2MPpa.md.png");
     background-size: cover;
 }
@@ -95,4 +94,27 @@ body {
     transition: box-shadow .15s ease-in-out;
 }
 
+.img0{
+    content: url("https://w0.peakpx.com/wallpaper/158/947/HD-wallpaper-planet-076d-alien-black-cosmos-dark-light-neon-planets-space-stars-violet-thumbnail.jpg");
+}
+
+.img1{
+    content: url("https://w0.peakpx.com/wallpaper/352/20/HD-wallpaper-planet-089a-alien-black-cosmos-green-life-light-neon-space-stars-thumbnail.jpg");
+}
+
+.img2{
+    content: url("https://w0.peakpx.com/wallpaper/538/645/HD-wallpaper-planet-124d-alien-black-cosmos-darkness-light-neon-space-ufo-violet-thumbnail.jpg");
+}
+
+.img3{
+    content: url("https://w0.peakpx.com/wallpaper/455/92/HD-wallpaper-planet-078c-3d-design-alien-black-blue-dark-galaxy-light-neon-planet-space-thumbnail.jpg");
+}
+
+.img4{
+    content: url("https://w0.peakpx.com/wallpaper/375/691/HD-wallpaper-planet-001b-3d-design-alien-black-dark-light-metal-neon-planet-red-stars-thumbnail.jpg");
+}
+
+.img5{
+    content: url("https://w0.peakpx.com/wallpaper/876/853/HD-wallpaper-planet-101d-alien-black-cosmos-light-metal-neon-orange-space-thumbnail.jpg");
+}
 

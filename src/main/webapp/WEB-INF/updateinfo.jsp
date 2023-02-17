@@ -33,14 +33,7 @@
         <button class="btn delete-btn" type="submit" name="delete-account" value="${sessionScope.user.id}" onclick="return confirm('This will delete all info are you sure?')" >Delete Account?</button>
 
     </form>
-<%--    <div>--%>
-<%--        <c:if test="${invalidUsername}">--%>
-<%--            <small>Sorry, that username is already taken.</small>--%>
-<%--        </c:if>--%>
-<%--        <c:if test="${inputHasErrors}">--%>
-<%--            <small>Please make sure your password and password confirmation are the same.</small>--%>
-<%--        </c:if>--%>
-<%--    </div>--%>
+
 </div>
 </body>
 </html>
