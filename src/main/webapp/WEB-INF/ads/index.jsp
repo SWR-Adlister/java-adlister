@@ -11,7 +11,7 @@
 
 
 <div class="container" style="text-align: center">
-    <h1 class="text">Here Are all the ads!</h1>
+    <h1 class="text">UFO Sightings and Meetups!</h1>
 </div>
 <div class="container-expand center p-4">
     <script>
@@ -27,7 +27,7 @@
             <div class="card-body">
                 <h5 class="card-title">${ad.title}</h5>
                 <p class="card-text">${ad.description}</p>
-                <a href="/adpage?adId=${ad.getId()}" class="btn card-btn">View Ad</a>
+                <a href="/adpage?adId=${ad.getId()}" class="btn card-btn">View Listing</a>
             </div>
         </div>
         <script>

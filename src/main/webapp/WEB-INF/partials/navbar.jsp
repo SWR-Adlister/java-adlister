@@ -16,7 +16,7 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0 mt-2">
                 <form class="d-flex" action="/ads/search" method="GET">
-                    <input id="s" class="form-control me-2" name="s" type="search" placeholder="Search Ads..." aria-label="Search">
+                    <input id="s" class="form-control me-2" name="s" type="search" placeholder="Search Listings..." aria-label="Search">
                     <button class="btn search-btn" type="submit" >Search</button>
                 </form>
             </ul>
