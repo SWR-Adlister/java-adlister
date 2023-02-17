@@ -1,9 +1,12 @@
-# Finish Up your Adlister
+# Welcome to UFO Lister! 1.0
 
-Follow the instructions and suggestions in [here](https://java.codeup.com/java-iii/finish-the-adlister)
+UFO Lister is a place where you can browse postings of UFO sightings or find UFO Meetups. 
 
-## Final branch
+Registered Users can create, and manage, postings of their sightings or meetups and their information is saved to their
+account for future use. 
 
-Use this master branch as a base for your future features, this branch already has all the necessary code implemented up to the lesson on passwords including it's solution.
+## UFO Lister Roadmap Items:
 
-You might have to change the default branch in your own fork so you can have the master branch as the the default and merge your contributions into it.
+-- Categories for grouping/sorting posts for Sightings, Meetups, and News
+-- Ability to comment on posts
+-- Ability for users to share their contact info on their posts

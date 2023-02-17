@@ -36,7 +36,7 @@
                 <div class="card-body">
                     <h5 class="card-title">${ad.title}</h5>
                     <p class="card-text">${ad.description}</p>
-                    <a href="/adpage?adId=${ad.getId()}" class="btn card-btn">View Ad</a>
+                    <a href="/adpage?adId=${ad.getId()}" class="btn card-btn">View Listing</a>
                 </div>
             </div>
             <script>
